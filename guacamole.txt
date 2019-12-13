@@ -9,3 +9,8 @@ ingredients
 - salt
 - garlic
 - lime
+
+steps:
+- clean
+- cut and dice
+- mix
